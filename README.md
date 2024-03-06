@@ -3,7 +3,7 @@
 <h3>I'm a Software Engineer, Film Photographer, & Creative Problem Solver</h3>
 
 - 🔭 I’m a Full Stack Developer and recent Flatiron Software Engineering Bootcamp graduate.
-- 🌱 Right now, I am working on machine learning using Python.
+- 🌱 Right now, I'm excited to be learning C++
 - 🥅 Goals: Become a role model for other Native Americans wanting to enter tech.
 
 <h3>Connect with me</h3>
