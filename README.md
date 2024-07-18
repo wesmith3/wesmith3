@@ -1,9 +1,9 @@
 <h1>Hello World, I'm Wesley Smith 👋</h1>
 
-<h3>I'm a Software Engineer, Film Photographer, & Creative Problem Solver</h3>
+<h3>I'm a Full Stack Developer, Film Photographer, & Creative Problem Solver</h3>
 
 - 🔭 I’m a Full Stack Developer and recent Flatiron Software Engineering Bootcamp graduate.
-- 🌱 Right now, I'm excited to be learning C++
+- 🌱 Right now, my current interest is NodeJS
 - 🥅 Goals: Become a role model for other Native Americans wanting to enter tech.
 
 <h3>Connect with me</h3>
