@@ -1,7 +1,7 @@
 <h1>Hello World, I'm Wesley Smith 👋</h1>
-<h2>    
+<h3>    
 I'm a Full Stack Developer specializing in JavaScript, with expertise in frameworks such as React, Next.js, and Node.js. My skill set extends to Python, including its lightweight framework Flask. I round out my backend proficiency with SQLite and MySQL database management
-</h2>
+</h3>
 
 <h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/wesmith314/" style="display: inline-block;">
