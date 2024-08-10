@@ -13,12 +13,16 @@ I'm a Full Stack Developer specializing in JavaScript, with expertise in framewo
 
 <h3>Technolgy Stack:</h3>
 <h2>Languages:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python)](https://skillicons.dev)
 <h2>Front-End Framworks/Libraries:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,materialui)](https://skillicons.dev)
 <h2>Backend Frameworks/Runtimes:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,flask)](https://skillicons.dev)
 <h2>Databases:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)](https://skillicons.dev)
 
 <h3>Latest Blog Posts</h3>
