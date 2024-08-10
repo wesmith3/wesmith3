@@ -13,7 +13,7 @@ I'm a Full Stack Developer specializing in JavaScript, with expertise in framewo
 
 <h3>Technolgy Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react, nextjs, nodejs, mongodb, flask,postgres,sqlite,postman,materialui,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,nextjs,nodejs,mongodb,flask,postgres,sqlite,postman,materialui,vscode)](https://skillicons.dev)
 
 <h3>Latest Blog Posts</h3>
 <li><a href="https://medium.com/@wesmith314/demystifying-multithreading-part-one-f85f97de7532">Demystifying Multithreading: Part One</a></li>
