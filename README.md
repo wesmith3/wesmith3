@@ -1,6 +1,6 @@
 <h1>Hello World, I'm Wesley Smith 👋</h1>
 <p>    
-I'm a Full Stack Developer specializing in JavaScript, with expertise in frameworks such as React, Next.js, and Node.js. My skill set extends to Python, including it's lightweight framework Flask. I round out my backend proficiency with MongoDB, SQLite and MySQL database management
+I'm a Full Stack Developer specializing in JavaScript, with expertise in frameworks such as React, Next.js, and Node.js. My skill set extends to Python, including it's lightweight framework Flask. I round out my backend proficiency with MongoDB, SQLite, PostgreSQL, & MySQL.
 </p>
 
 <h3>Connect with me</h3>
@@ -23,7 +23,7 @@ I'm a Full Stack Developer specializing in JavaScript, with expertise in framewo
 [![My Skills](https://skillicons.dev/icons?i=nodejs,flask)](https://skillicons.dev)
 <h2>Databases:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
 
 <h3>Latest Blog Posts</h3>
 <li><a href="https://medium.com/@wesmith314/demystifying-multithreading-part-one-f85f97de7532">Demystifying Multithreading: Part One</a></li>
