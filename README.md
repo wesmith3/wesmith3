@@ -1,6 +1,6 @@
 <h1>Hello World, I'm Wesley Smith 👋</h1>
 <p>    
-I'm a Full Stack Developer specializing in JavaScript, with expertise in frameworks such as React, Next.js, and Node.js. My skill set extends to Python, including its lightweight framework Flask. I round out my backend proficiency with SQLite and MySQL database management
+I'm a Full Stack Developer specializing in JavaScript, with expertise in frameworks such as React, Next.js, and Node.js. My skill set extends to Python, including it's lightweight framework Flask. I round out my backend proficiency with MongoDB, SQLite and MySQL database management
 </p>
 
 <h3>Connect with me</h3>
