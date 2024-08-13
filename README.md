@@ -1,6 +1,6 @@
-<h1>Hello World, I'm Wesley Smith 👋</h1>
+<h1>Hello World, I'm Wesley Smith</h1>
 <p>    
-I'm a Full Stack Developer specializing in JavaScript, with expertise in frameworks such as React, Next.js, and Node.js. My skill set extends to Python, including it's lightweight framework Flask. I round out my backend proficiency with MongoDB, SQLite, PostgreSQL, & MySQL.
+I'm a Full Stack Developer specializing in JavaScript, with expertise in frameworks such as React, Next.js, and Node.js. My skillset extends to Python, including it's lightweight framework Flask. I round out my backend proficiency with MongoDB, SQLite, PostgreSQL, & MySQL.
 </p>
 
 <h3>Connect with me</h3>
@@ -25,7 +25,7 @@ I'm a Full Stack Developer specializing in JavaScript, with expertise in framewo
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
 
-<h3>Latest Blog Posts</h3>
+<h3>Blog Posts</h3>
 <li><a href="https://medium.com/@wesmith314/demystifying-multithreading-part-one-f85f97de7532">Demystifying Multithreading: Part One</a></li>
 <li><a href="https://medium.com/@wesmith314/understanding-react-data-flow-2c18fb17f01e">Understanding React Data Flow</a></li>
 <li><a href="https://medium.com/@wesmith314/magical-callback-functions-and-how-to-use-them-5b530d26fe8a">Magical Callback Functions and How to Use Them</a></li>
