@@ -24,6 +24,9 @@ I'm a Full Stack Developer specializing in JavaScript, with expertise in framewo
 <h2>Databases:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
+<h2>Cloud Computing Platforms:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <h3>Blog Posts</h3>
 <li><a href="https://medium.com/@wesmith314/demystifying-multithreading-part-one-f85f97de7532">Demystifying Multithreading: Part One</a></li>
