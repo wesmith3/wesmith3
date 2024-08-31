@@ -29,9 +29,9 @@ I'm a Full Stack Developer specializing in JavaScript, with expertise in framewo
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <h3>Blog Posts</h3>
+<li><a href="https://medium.com/@wesmith314/a-beginners-guide-to-typescript-supercharge-your-javascript-af5489e52c91">Leveling Up: From JavaScript to TypeScript for Beginners</a></li>
 <li><a href="https://medium.com/@wesmith314/demystifying-multithreading-part-one-f85f97de7532">Demystifying Multithreading: Part One</a></li>
 <li><a href="https://medium.com/@wesmith314/understanding-react-data-flow-2c18fb17f01e">Understanding React Data Flow</a></li>
-<li><a href="https://medium.com/@wesmith314/magical-callback-functions-and-how-to-use-them-5b530d26fe8a">Magical Callback Functions and How to Use Them</a></li>
 
 <!--
 **wesmith3/wesmith3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
