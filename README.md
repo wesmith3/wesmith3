@@ -8,22 +8,10 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
 
-<h3>Technolgy Stack:</h3>
-<h2>Languages:</h2>
+<h3>My Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python)](https://skillicons.dev)
-<h2>Front-End Framworks/Libraries:</h2>
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,materialui)](https://skillicons.dev)
-<h2>Backend Frameworks/Runtimes:</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,flask)](https://skillicons.dev)
-<h2>Databases:</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
-<h2>Cloud Computing Platforms:</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <h3>Blog Posts</h3>
 <li><a href="https://medium.com/@wesmith314/a-beginners-guide-to-typescript-supercharge-your-javascript-af5489e52c91">Leveling Up: From JavaScript to TypeScript for Beginners</a></li>
