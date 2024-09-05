@@ -1,4 +1,4 @@
-<h1>Hello World! I'm Wesley Smith</h1>
+<h1>Full Stack (MERN) Developer</h1>
 
 <h3>Connect with me</h3>
 <a href="https://www.linkedin.com/in/wesmith314/" style="display: inline-block;">
