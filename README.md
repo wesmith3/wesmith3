@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,aws)](https://skillicons.dev)
 <h3>My Current Interests Include:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,jest,python,flask,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,jest,python,postgresql)](https://skillicons.dev)
 
 
 <h3>Blog Posts</h3>
