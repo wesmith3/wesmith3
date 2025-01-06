@@ -1,4 +1,4 @@
-<h1>Full Stack (MERN) Developer</h1>
+<h1>Full Stack Developer</h1>
 
 <h3>Connect With Me</h3>
 <a href="https://www.linkedin.com/in/wesmith314/" style="display: inline-block;">
@@ -13,10 +13,10 @@
 
 <h3>My Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,python,postgresql,aws)](https://skillicons.dev)
 <h3>My Current Interests Include:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,jest,python,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,jest,nodejs,mongodb)](https://skillicons.dev)
 
 
 <h3>Blog Posts</h3>
